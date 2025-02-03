@@ -1,2 +1,3 @@
 # PROFILE
-This is my Resume
+Resume Completed 
+Now working on CSS part
